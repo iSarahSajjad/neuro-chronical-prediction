@@ -1,0 +1,276 @@
+{
+ "smoker": {
+  "LongName": "Smoker",
+  "Description": "Does the subject self report smoking cigarettes",
+  "Levels": {
+   "y": "Yes, subject reports smoking cigarettes",
+   "n": "No, subject does not smoke cigarettes"
+  }
+ },
+ "hours_sleep": {
+  "LongName": "Hours of sleep per night",
+  "Description": "How many hours the subject self reports sleeping on a typical night",
+  "Units": "hours/night"
+ },
+ "limited_self_care/mobility": {
+  "LongName": "Limited in self care or mobility",
+  "Description": "Does subject report they are limited in any self-care or mobility?",
+  "Levels": {
+   "y": "Yes",
+   "n": "No"
+ },
+ "bdi_total": {
+  "LongName": "Beck's Depression Inventory 1A",
+  "Description": "Total score on Beck's Depression Inventory, a 21 question survey, that scores severity of depressive symptoms. Weighted scores are added to produce a final score"
+ },
+ "panas_positive_affect": {
+  "LongName": "Positive affect component of positive and negative affectivity Scale",
+  "Description": "Positive affect has been shown to be independent of negative affect. This score provides just the total for positive affectivity questions of the PANAS",
+  "TermURL": "http://psycnet.apa.org/journals/psp/54/6/1063/"
+ },
+ "panas_negative_affect": {
+  "LongName": "Negative affect component of positive and negative affectivity Scale",
+  "Description": "Positive affect has been shown to be independent of negative affect. This score provides just the total for negative affectivity questions of the PANAS",
+  "TermURL": "http://psycnet.apa.org/journals/psp/54/6/1063/"
+ },
+ "sf-12_q1": {
+  "LongName": "12 item short form question 1",
+  "Description": "In general, would you say your health is",
+  "Levels": {
+  "1": "Excelent",
+  "2": "Very Good",
+  "3": "Good",
+  "4": "Fair",
+  "5": "Poor"
+  }
+ },
+ "sf-12_q2a": {
+  "LongName": "12 item short form question 2a",
+  "Description": "During a typical day, does your health now limit you in moderate activities, such as moving a table, pushing a vacuum cleaner, bowling, or playing golf?",
+  "Levels": {
+  "1": "Limited a lot",
+  "2": "Limited a little",
+  "3": "No, not limited"
+  }  
+ },
+ "sf-12_q2b": {
+  "LongName": "12 item short form question 2b",
+  "Description": "During a typical day does your health now limit you in climbing several flights of stairs?",
+  "Levels": {
+  "1": "Limited a lot",
+  "2": "Limited a little",
+  "3": "No, not limited"
+  }  
+ },
+ "sf-12_q3a": {
+  "LongName": "12 item short form question 3a",
+  "Description": "During the past 4 weeks, have you accomplished less than you would have liked of your work or other regular activities as a result of your physical health?",
+  "Levels": {
+  "1": "Yes",
+  "2": "No"
+  }  
+ },
+ "sf-12_q3b": {
+  "LongName": "12 item short form question 3b",
+  "Description": "During the past 4 weeks, have you been limited in the kind of work or other regular daily activities as a result of your physical health?",
+  "Levels": {
+  "1": "Yes",
+  "2": "No"
+  }  
+ },
+ "sf-12_q4a": {
+  "LongName": "12 item short form question 4a",
+  "Description": "During the past 4 weeks, have you accomlished less than you would have liked of your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious)?",
+  "Levels": {
+  "1": "Yes",
+  "2": "No"
+  }  
+ },
+ "sf-12_q4b": {
+  "LongName": "12 item short form question 4b",
+  "Description": "During the past 4 weeks, have you not done your work or other regular daily activities as carefully as usual as a result of any emotional problems (such as feeling depressed or anxious)?",
+  "Levels": {
+  "1": "Yes",
+  "2": "No"
+  }  
+ },
+ "sf-12_q5": {
+  "LongName": "12 item short form question 5",
+  "Description": "During the past 4 weeks, how much did pain interfere with your normal work (including both work outside the home, and housework)?",
+  "Levels": {
+  "1": "Not at all",
+  "2": "A little bit",
+  "3": "Moderately",
+  "4": "Quite a bit",
+  "5": "Extremely"
+  }  
+ },
+ "sf-12_q6a": {
+  "LongName": "12 item short form question 6a",
+  "Description": "How much of the time during the past 4 weeks have you felt calm and peaceful?",
+  "Levels": {
+  "1": "All of the time",
+  "2": "Most of the time",
+  "3": "A good bit of the time",
+  "4": "Some of the time",
+  "5": "A little of the time",
+  "6": "None of the time"
+  }
+ },
+ "sf-12_q6b": {
+  "LongName": "12 item short form question 6b",
+  "Description": "How much of the time during the past 4 weeks did you have a lot of energy",
+  "Levels": {
+  "1": "All of the time",
+  "2": "Most of the time",
+  "3": "A good bit of the time",
+  "4": "Some of the time",
+  "5": "A little of the time",
+  "6": "None of the time"
+  }
+ },
+ "sf-12_q6c": {
+  "LongName": "12 item short form question 6c",
+  "Description": "How much of the time during the past 4 weeks have you felt downhearted and blue?",
+  "Levels": {
+  "1": "All of the time",
+  "2": "Most of the time",
+  "3": "A good bit of the time",
+  "4": "Some of the time",
+  "5": "A little of the time",
+  "6": "None of the time"
+  }
+ },
+ "sf-12_q7": {
+  "LongName": "12 item short form question 7",
+  "Description": "During the past 4 weeks, how much of the time has your physical health or emotional problems interfered with your social activities (like visiting with friends, relatives, etc.)?",
+  "Levels": {
+  "1": "All of the time",
+  "2": "Most of the time",
+  "3": "Some of the time",
+  "4": "A little of the time",
+  "5": "None of the time"
+  }
+ },
+ "mpq_sensory": {
+  "LongName": "McGill pain questionaire short form sensory score",
+  "Description": "Total score on the 11 sensory questions of the short form version of the Mcgill pain questionaire. Higher scores indicate pain with more severe sensory dimension",
+  "TermURL": "https://www.ncbi.nlm.nih.gov/pubmed/3670870"
+ },
+ "mpq_affective": {
+  "LongName": "McGill pain questionaire short form affective score",
+  "Description": "Total score on 4 affective questions of the short form version of the Mcgill pain questionaire. Higher scores indicate pain with more severe affective dimensions.",
+  "TermURL": "https://www.ncbi.nlm.nih.gov/pubmed/3670870"
+ },
+ "r1": {
+  "LongName": "R1",
+  "Description": "Pain located in upper left buttock or lower back",
+  "TermURL": "ftp://openpain.org/subacute_longitudinal_study/radiculopathy_body_map.pdf"
+ },
+ "r2": {
+  "LongName": "R2",
+  "Description": "Pain located in upper right buttock or lower back",
+  "TermURL": "ftp://openpain.org/subacute_longitudinal_study/radiculopathy_body_map.pdf"
+ },
+ "r3": {
+  "LongName": "R3",
+  "Description": "Pain located in lower left buttock",
+  "TermURL": "ftp://openpain.org/subacute_longitudinal_study/radiculopathy_body_map.pdf"
+ },
+ "r4": {
+  "LongName": "R4",
+  "Description": "Pain located in lower right buttock",
+  "TermURL": "ftp://openpain.org/subacute_longitudinal_study/radiculopathy_body_map.pdf"
+ },
+ "r5": {
+  "LongName": "R5",
+  "Description": "Pain located in left leg between knee and buttock",
+  "TermURL": "ftp://openpain.org/subacute_longitudinal_study/radiculopathy_body_map.pdf"
+ },
+ "r6": {
+  "LongName": "R6",
+  "Description": "Pain located in right leg between knee and buttock",
+  "TermURL": "ftp://openpain.org/subacute_longitudinal_study/radiculopathy_body_map.pdf"
+ },
+ "r7": {
+  "LongName": "R7",
+  "Description": "Pain located in left leg below the knee",
+  "TermURL": "ftp://openpain.org/subacute_longitudinal_study/radiculopathy_body_map.pdf"
+ },
+ "r8": {
+  "LongName": "R8",
+  "Description": "Pain located in right leg below the knee",
+  "TermURL": "ftp://openpain.org/subacute_longitudinal_study/radiculopathy_body_map.pdf"
+ },
+ "r9": {
+  "LongName": "R9",
+  "Description": "Pain located in left foot",
+  "TermURL": "ftp://openpain.org/subacute_longitudinal_study/radiculopathy_body_map.pdf"
+ },
+ "r10": {
+  "LongName": "R10",
+  "Description": "Pain located in right foot",
+  "TermURL": "ftp://openpain.org/subacute_longitudinal_study/radiculopathy_body_map.pdf"
+ },
+ "r11": {
+  "LongName": "R11",
+  "Description": "Pain located in left mid or upper back",
+  "TermURL": "ftp://openpain.org/subacute_longitudinal_study/radiculopathy_body_map.pdf"
+ },
+ "r12": {
+  "LongName": "R12",
+  "Description": "Pain located in right mid or upper back",
+  "TermURL": "ftp://openpain.org/subacute_longitudinal_study/radiculopathy_body_map.pdf"
+ },
+ "mpq_radiculopathy": {
+  "LongName": "Radiculopathy score",
+  "Description": "Total number of areas affected by pain. Score between 0 and 12"
+ },
+ "mpq_vas": {
+  "LongName": "Visual analog scale score",
+  "Description": "Subjects designate their overall pain level by marking a point on a continuous line anchored by 'No Pain' and 'Worst Possible Pain' at each end. Distance from the end of the line is measured and score is assigned based on fraction of total line length demarcated by subjects self report. Score ranges from 0-1"
+ },
+ "medications": {
+  "LongName": "Subject's reported medication regimen",
+  "Description": "Subject's self report of medication usage. Unless otherwise indicated any medication indicated was taken on an as needed basis (PRN)"
+ },
+ "nps_total": {
+  "LongName": "Neuropathy Pain Scale total score",
+  "Description": "University of Washington Neuropathy Pain Scale measures sharpness, heat/cold, dullness, intensity, overall unpleasantness and surface vs. deep pain using 9 questions each scored between 0 (low severity) or 10 (high severity). The answer to a 10th question on this questioniare is qualitative and does not factor into this score.",
+  "TermURL": "https://www.ncbi.nlm.nih.gov/pubmed/9040716"
+ },
+ "pdi_total": {
+  "LongName": "Pain disability index total score",
+  "Description": "A questionaire that asks patients to report how much pain interferes with severn areas of life activity: family/home, recreation, social, occupation, sexual, self-care, life-support and on average. Higher scores indicate more severe disability. Possible scores range from 0-70"
+ },
+ "pdetect_pain_now": {
+  "LongName": "Pain right now",
+  "Description": "How would you assess your pain NOW, at this moment? Scores from 0-10, anchored by 'none' and 'max'"
+ },
+ "pdetect_strongest_4wks": {
+  "LongName": "Strongest pain during the last 4 weeks",
+  "Description": "How strong was the STRONGEST pain during the past 4 weeks? Scores from 0-10, anchored by 'none' and and 'max'"
+ },
+ "pdetect_pain_average_4wks": {
+  "LongName": "Average pain over the past 4 weeks",
+  "Description": "How strong was the pain during the past 4 weeks ON AVERAGE? Scores from 0-10, anchored by 'none' and 'max'"
+ },
+ "pdetect_pain_course": {
+  "LongName": "PainDETECT pain time course",
+  "Description": "Subject is asked to mark the picture that best describes the course of their pain.",
+  "Levels": {
+   "1": "Persistent pain with slight fluctations",
+   "2": "Persistent pain with pain attacks",
+   "3": "Pain attacks without pain between them",
+   "4": "Pain attacks with pain between them"
+  }
+ },
+ "pdetect_total": {
+  "LongName": "PainDETECT total score",
+  "Description": "Total weighted score for 7 questions on the PainDETECT form which evaluate the extent to which subject suffers from burning sensations, tingling or prickling sensations, the extent to which light touching is painful, to which the subject experiences sudden pain attacks, to which heat or cold are painful, any sensations of numbness and extent t owhich pressure in the affected area triggers pain. Larger scores indicate more severe pain, with a possible score range of 0-28."
+ },
+ "changes_since_last_visit": {
+  "LongName": "Changes in pain, mood or major life events since last visit",
+  "Description": "Subject was asked to report any potentially relevant changes between visits"
+ }
+}

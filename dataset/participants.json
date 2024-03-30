@@ -1,0 +1,125 @@
+{
+ "race": {
+  "LongName": "Race",
+  "Description": "The race with which the patient self identifies",
+  "Levels": {
+   "1": "Hispanic or Latino",
+   "2": "American Indian or Alaska Native",
+   "3": "Asian",
+   "4": "Black or African American",
+   "5": "Native Hawaiian or Other Pacific Islander",
+   "6": "White"
+  }
+ },
+ "$bracket": {
+  "LongName": "Income Bracket",
+  "Description": "Income bracket, self reported",
+  "Levels": {
+   "1": "Less than $10,000",
+   "2": "$10,000-$25,000",
+   "3": "$50,000-$75,000",
+   "4": "$75,000-$100,000",
+   "5": "Greater than $100,000"
+  }
+ },
+ "origin": {
+  "LongName": "Origin/Cause of pain",
+  "Description": "What percipitated onset of pain, self reported",
+  "Levels": {
+   "1": "Spontaneous (just happened)",
+   "2": "Injury",
+   "3": "Following surgery",
+   "4": "Following injury",
+   "5": "Following illness",
+   "6": "Cancer",
+   "7": "Other"
+ },
+ "rs2239393": {
+  "LongName": "catechol-O-methyltransferase chromosome 22 location 19950428"
+ },
+ "rs4818": {
+  "LongName": "catechol-O-methyltransferase chromosome 22 location 19951207"
+ },
+ "rs165599": {
+  "LongName": "catechol-O-methyltransferase chromosome 22 location 19956781"
+ },
+ "rs4680": {
+  "LongName": "catechol-O-methyltransferase chromosome 22 location 19951271"
+ },
+ "rs740623": {
+  "LongName": "catechol-O-methyltransferase chromosome 22",
+  "Description": "Source of genes is provided in Vachon-Presseau et al (2016). 'Corticolimbic anatomical characteristics predetermine risk for chronic pain'. Brain. No location is provided for this gene but additional sources are provided therein which may be informative in determining the precise location of this gene variant" 
+ },
+ "rs4633": {
+  "LongName": "catechol-O-methyltransferase chromosome 22 location 19950235"
+ },
+ "rs5993882": {
+  "LongName": "catechol-O-methyltransferase chromosome 22 location 19937533"
+ },
+ "rs4646312": {
+  "LongName": "catechol-O-methyltransferase chromosome 22 location 19948337" 
+ },
+ "rs6269": {
+  "LongName": "catechol-O-methyltransferase chromosome 22 location 19949952" 
+ },
+ "rs2075507": {
+  "LongName": "catechol-O-methyltransferase chromosome 22 location 19928092" 
+ },
+ "rs1544325": {
+  "LongName": "catechol-O-methyltransferase chromosome 22 location 19931668" 
+ },
+ "rs4274224": {
+  "LongName": "catechol-O-methyltransferase chromosome 22 location 19931668" 
+ },
+ "rs4581480": {
+  "LongName": "dopamine receptor D4 chromosome 11 location 113324474"
+ },
+ "rs1076560": {
+  "LongName": "dopamine receptor D2 chromosome 11 location 113283688"
+ },
+ "rs6295": {
+  "LongName": "5-hydroxytryptamine receptor 1A chromosome 5 location 63258565" 
+ },
+ "rs12584920": {
+  "LongName": "5-hydroxytryptamine receptor 2A chromosome 13 location 47465037" 
+ },
+ "rs6311": {
+  "LongName": "5-hydroxytryptamine receptor 2A chromosome 13 location 47471478" 
+ },
+ "rs17289394": {
+  "LongName": "5-hydroxytryptamine receptor 2A chromosome 13 location 47473220" 
+ },
+ "rs12654778": {
+  "LongName": "adrenoceptor beta 2 chromosome 5 location 148205741" 
+ },
+ "rs1042713": {
+  "LongName": "adrenoceptor beta 2 chromosome 5 location 148206440" 
+ },
+ "rs1799971": {
+  "LongName": "opioid receptor mu 1 chromosome 6 location 154360797" 
+ },
+ "rs569356": {
+  "LongName": "opioid receptor delta 1 chromosome 1 location 29136686" 
+ },
+ "rs678849": {
+  "LongName": "opioid receptor delta 1 chromosome 1 location 29145188" 
+ },
+ "rs6090453": {
+  "LongName": "opioid receptor delta 1 chromosome 1 location 29145188" 
+ },
+ "rs4334545": {
+  "LongName": "neurotensin receptor 1 chromosome 20 location 61353177" 
+ },
+ "rs324419": {
+  "LongName": "fatty acid amide hydrolase chromosome 1 location 46871986" 
+ },
+ "rs2295633": {
+  "LongName": "fatty acid amide hydrolase chromosome 1 location 46874383" 
+ },
+ "rs6265": {
+  "LongName": "brain-derived neurotrophic factor chromosome 11 location 27679916" 
+ },
+ "rs16147": {
+  "LongName": "neuropeptide Y chromosome 7 location 24323410" 
+ }
+}
